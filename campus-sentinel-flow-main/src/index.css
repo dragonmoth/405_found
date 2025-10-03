@@ -1,0 +1,93 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Deep space navy backgrounds */
+    --background: 222 47% 7%;
+    --foreground: 210 40% 98%;
+
+    /* Card and surface styling */
+    --card: 222 40% 10%;
+    --card-foreground: 210 40% 98%;
+    --card-border: 217 33% 17%;
+
+    /* Popover styling */
+    --popover: 222 40% 10%;
+    --popover-foreground: 210 40% 98%;
+
+    /* Primary - Corporate Blue */
+    --primary: 217 91% 60%;
+    --primary-foreground: 210 40% 98%;
+    --primary-glow: 217 91% 70%;
+
+    /* Secondary - Deep blue */
+    --secondary: 221 83% 25%;
+    --secondary-foreground: 210 40% 98%;
+
+    /* Muted elements */
+    --muted: 217 33% 17%;
+    --muted-foreground: 215 20% 65%;
+
+    /* Accent - Teal for success */
+    --accent: 173 80% 40%;
+    --accent-foreground: 0 0% 100%;
+    --accent-glow: 173 80% 50%;
+
+    /* Purple highlight */
+    --highlight: 258 90% 66%;
+    --highlight-foreground: 0 0% 100%;
+
+    /* Destructive - Alert Red */
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 210 40% 98%;
+
+    /* Border and inputs */
+    --border: 217 33% 17%;
+    --input: 217 33% 17%;
+    --ring: 217 91% 60%;
+
+    --radius: 0.5rem;
+
+    /* Custom gradients */
+    --gradient-primary: linear-gradient(135deg, hsl(217 91% 60%), hsl(258 90% 66%));
+    --gradient-surface: linear-gradient(180deg, hsl(222 40% 12%), hsl(222 40% 8%));
+    --gradient-card: linear-gradient(135deg, hsl(222 40% 11%), hsl(222 40% 9%));
+    
+    /* Glows and shadows */
+    --glow-primary: 0 0 20px hsl(217 91% 60% / 0.3);
+    --glow-accent: 0 0 20px hsl(173 80% 40% / 0.3);
+    --glow-highlight: 0 0 20px hsl(258 90% 66% / 0.3);
+    --glow-destructive: 0 0 20px hsl(0 84% 60% / 0.3);
+    
+    --shadow-elevated: 0 10px 30px -10px hsl(222 47% 4% / 0.5);
+    
+    /* Transitions */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+    /* Sidebar */
+    --sidebar-background: 222 40% 8%;
+    --sidebar-foreground: 210 40% 98%;
+    --sidebar-primary: 217 91% 60%;
+    --sidebar-primary-foreground: 210 40% 98%;
+    --sidebar-accent: 217 33% 17%;
+    --sidebar-accent-foreground: 210 40% 98%;
+    --sidebar-border: 217 33% 14%;
+    --sidebar-ring: 217 91% 60%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
