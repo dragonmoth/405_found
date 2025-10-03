@@ -1,0 +1,102 @@
+Student_Data_Generation,,,,,
+student_id,name,year,division,roll_number,license_plate
+23102824,Ankit Ayaan Patel,First,C,70,KAF 9279
+23107924,Avni Divya Mehta,First,A,49,MH71HQ6925
+23104150,Vivaan Shah,First,A,13,LVE 6820
+23102069,Mihika Patil,Third,B,42,
+23101916,Nikhil Shaurya Jain,Third,A,28,
+23106155,Sanjay Mishra,Second,B,18,OGP 7543
+23103621,Swati Myra Nair,Fourth,C,33,
+23101188,Vinayak Kundar,Third,A,39,
+23108433,Ankit Desai,Second,C,14,
+23105889,Vihaan Kumar,First,C,42,
+23102832,Komal Shah,Second,A,31,
+23102290,Ankit Gupta,Second,A,62,
+23103705,Neha Pandey,Second,C,27,
+23107537,Riya Mishra,First,A,30,KA10SB2104
+23108953,Rahul Sumit Reddy,Fourth,A,61,
+23104119,Arjun Agarwal,Fourth,B,60,
+23101887,Vivaan Mehta,First,A,26,LKH 5092
+23104872,Kabir Yadav,Fourth,A,22,MH20EF1958
+23109883,Ankit Verma,Fourth,C,69,MH75PQ7868
+23109565,Jyoti Rashmi Mehta,Second,B,52,KA02LZ2638
+23102127,Atharva Rudra Rao,Third,C,68,VHR 3200
+23105325,Avni Verma,First,C,56,
+23101722,Shaurya Desai,Second,C,60,
+23108007,Arjun Akash Patel,First,B,19,
+23101685,Kavya Verma,Third,A,33,
+23106794,Swati Joshi,Second,A,54,KA35ES7267
+23106000,Ayaan Reyansh Jain,Third,B,9,
+23105573,Kirti Rao,Third,A,15,
+23105279,Amit Desai,First,A,60,MH91LN9821
+23104228,Pari Rashmi Mehta,Third,C,16,
+23105920,Rashmi Jain,Third,C,18,KA79OK1006
+23108238,Rashmi Priya Kumar,First,B,67,
+23106491,Nikhil Joshi,Third,A,27,BZP 2193
+23101090,Pratik Kumar,Fourth,A,33,
+23102988,Shanaya Chauhan,Third,B,66,
+23109976,Komal Suman Trivedi,Fourth,B,32,
+23105543,Kirti Riya Gupta,Third,A,40,XCD 7275
+23107883,Komal Sharma,Fourth,B,1,
+23105892,Suman Pandey,Second,B,30,MKR 7624
+23108022,Rohit Verma,Third,B,43,MH07ZJ2124
+23101659,Ayaan Aarav Nair,Second,A,17,
+23102874,Rudra Agarwal,Second,C,16,
+23103683,Prisha Shah,Fourth,B,27,MH45NR2129
+23106590,Rohit Trivedi,First,B,48,
+23108532,Kabir Vijay Desai,Fourth,B,59,
+23105397,Suman Jyoti Gupta,Third,B,33,
+23107209,Ananya Mehta,Second,B,29,MH31SM4937
+23108800,Riya Gupta,Third,A,58,
+23106016,Priya Agarwal,Fourth,C,44,MH25FM9595
+23105636,Nikhil Ayaan Agarwal,Second,B,2,
+23103073,Aadhya Rao,Third,C,19,
+23109042,Rohit Ishaan Trivedi,Fourth,B,47,BYM 2070
+23105066,Rahul Nair,Second,C,53,
+23108253,Suman Pandey,Third,C,8,
+23102625,Sanjay Deepak Gupta,Second,A,24,
+23103564,Kabir Nair,Fourth,B,6,KA34UQ4241
+23103330,Vivaan Ishaan Nair,Third,B,17,
+23105982,Avni Trivedi,Fourth,A,6,
+23106280,Ananya Rashmi Reddy,First,C,35,
+23103870,Neha Desai,Second,C,62,
+23109056,Aarush Mehta,Third,C,15,
+23106403,Tanvi Jain,First,B,12,MH07EJ9167
+23108242,Reyansh Vihaan Shah,Fourth,C,65,ZPG 3594
+23103522,Jyoti Chauhan,Third,B,67,
+23104993,Pooja Anika Nair,Second,A,39,
+23107798,Jyoti Desai,First,B,41,
+23109022,Rudra Agarwal,Third,C,54,
+23106272,Manish Dhruv Joshi,Fourth,A,44,
+23107246,Rashmi Patel,Fourth,A,18,
+23106439,Rohit Singh,Fourth,A,21,
+23103529,Aarush Desai,Third,C,50,CIR 9742
+23102480,Prisha Singh,Fourth,A,51,AIB 6873
+23107267,Aarush Patel,Second,B,37,
+23101153,Komal Pooja Kumar,First,B,49,
+23105901,Tanvi Suman Shah,Second,B,68,MH02OR1803
+23109138,Divya Nair,Third,A,47,MH40UA6977
+23103153,Sumit Ankit Pandey,Second,A,18,
+23106994,Monika Jyoti Trivedi,Third,C,63,CZD 4696
+23108451,Rashmi Desai,Fourth,C,50,GAW 6374
+23101609,Priya Sara Rao,Second,B,34,KA54RV7686
+23104868,Prisha Agarwal,Third,A,29,MH07UG3063
+23104362,Nikhil Yadav,Second,A,25,
+23101046,Suman Patel,Third,A,8,
+23101422,Aarav Joshi,Third,A,13,MH58NY1710
+23109543,Riya Sharma,First,B,57,
+23102768,Tanvi Gupta,First,B,42,MH65PC2874
+23104522,Riya Pandey,Third,B,56,
+23102557,Pari Desai,Third,A,54,
+23102099,Nikhil Kabir Singh,Third,A,45,KA46WY7929
+23102697,Vihaan Joshi,First,B,62,
+23102882,Sneha Pari Rao,First,C,36,HTX 6751
+23109691,Dhruv Mehta,Second,B,22,
+23102391,Vihaan Raj Verma,First,B,31,
+23108957,Pari Divya Chauhan,First,B,30,KA06FZ1897
+23105742,Prisha Simran Pandey,Second,A,29,
+23104770,Saanvi Verma,Fourth,A,35,
+23106129,Sneha Pandey,Third,A,32,MH76KC6083
+23106562,Shaurya Gupta,First,C,25,
+23106724,Simran Patel,Second,A,10,MH97OP6295
+23106179,Rudra Rudra Shah,Third,C,4,KA37BW2479
