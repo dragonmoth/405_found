@@ -290,4 +290,10 @@ For support, please open an issue in the GitHub repository or contact the develo
 
 ---
 
+## 👥 Team
+
+![Team Photo](team_photo.jpg)
+
+---
+
 **Campus Sentinel Flow** - Securing campuses with intelligent multi-modal detection 🏫🔒
